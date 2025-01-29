@@ -36,7 +36,9 @@ function weekLabels(){
   function draw() { 
   background (220); 
   weekLabels(); 
-  showMondays(); 
+  showMondays();
+ textAlign(CENTER);
+  text('week',width/2, 370);
   }
 ```
 
