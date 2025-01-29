@@ -38,11 +38,12 @@ function weekLabels(){
   weekLabels(); 
   showMondays();
  textAlign(CENTER);
-  text('week',width/2, 370);
+  text('Steps over the Last 4 Mondays',width/2, 370);
   }
 ```
 
-![image](https://github.com/user-attachments/assets/8d538dd0-88af-41f8-af98-a4175436153c)
+![image](https://github.com/user-attachments/assets/01ca3332-5702-4b44-8a3f-5a4a5aee60c6)
+
 
 ```js
 
