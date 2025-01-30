@@ -31,7 +31,7 @@ function setup() {
 let stepImg;
 
 function preload() {
-  table = loadTable('Daily Steps January.csv', 'csv', 'header');
+  table = loadTable('DailyStepsJanuary.csv', 'csv', 'header');
   stepImg = loadImage('yellowPikmin.PNG');
 }
 
