@@ -21,7 +21,7 @@ Week,Monday,Tuesday,Wednesday,Thursday,Friday,Saturday,Sunday
 4,5414,2486,2220,511,43,2907,5346
 
 ```
-I followed along with the workshop video and was able to produce this simple graph that displayed my steps from the last four Mondays. I found this very enjoyable as it was similar to coding I had done in my statistics cource last year, so it was pretty familiar. However, as I based the code on what was shown in the workshop videos, I found that I needed to significantly change the proportions of the saze of the rectangles in relationship to the data. The example was in single and double digits, whilst mine ranged from 43 to over 10,000. This worked quite well and I was able to produce a little graph.
+I followed along with the workshop video and was able to produce this simple graph that displayed my steps from the last four Mondays. I found this very enjoyable as it was similar to coding I had done in my statistics cource last year, so it was pretty familiar. However, as I based the code on what was shown in the workshop videos, I found that I needed to significantly change the proportions of the size of the rectangles in relationship to the data. The example was in single and double digits, whilst mine ranged from 43 to over 10,000. This worked quite well and I was able to produce a little graph.
 
 ```js
 let table;
@@ -71,7 +71,7 @@ I decided I wanted each step I took in a day to be represented by a Pikmin from 
 
 ![yellowPikmin](https://github.com/user-attachments/assets/e825c9a3-743c-475f-84ac-10598a0c73be)
 
-However, I wanted the image to adjust size in response how many steps I had taken in a specific day, so that the images would fill the entire screen. I had to use this equasion to work out how to do this:
+However, I wanted the image to adjust size in response how many steps I had taken in a specific day, so that the images would fill the entire screen. I had to use this equation to work out how to do this:
 
 ![image](https://github.com/user-attachments/assets/5497358e-9669-479c-af99-92a7705e5eac)
 
